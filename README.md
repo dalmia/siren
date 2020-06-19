@@ -1,0 +1,1 @@
+# Sinusoidal Representation Networks (SIREN)
