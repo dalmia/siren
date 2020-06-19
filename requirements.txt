@@ -5,7 +5,7 @@ astroid==2.3.1
 attrs==19.1.0
 autopep8==1.4.4
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 blessings==1.7
 bottle==0.12.18
 cachetools==4.0.0
