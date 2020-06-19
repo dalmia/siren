@@ -96,7 +96,7 @@ prometheus-client==0.7.1
 promise==2.2.1
 prompt-toolkit==2.0.9
 protobuf==3.9.1
-psutil==5.6.3
+psutil==5.6.6
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
