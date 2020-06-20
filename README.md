@@ -15,7 +15,6 @@ $ export PYTHONPATH=/path/to/siren:$PYTHONPATH
 ```
 
 # Usage
-Copy the `tf_siren` folder to your local directory and import either `SinusodialRepresentationDense` or `SIRENModel`.
 
 ## Sine activation
 You can use the `Sine` activation as any other activation
