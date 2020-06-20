@@ -5,7 +5,7 @@ astroid==2.3.1
 attrs==19.1.0
 autopep8==1.4.4
 backcall==0.1.0
-bleach==3.1.0
+bleach>=3.1.4
 blessings==1.7
 bottle==0.12.18
 cachetools==4.0.0
@@ -88,7 +88,7 @@ parso==0.5.1
 pathtools==0.1.2
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.1.0
+pillow>=6.2.2
 pkg-resources==0.0.0
 plotly==4.1.0
 ply==3.11
@@ -96,7 +96,7 @@ prometheus-client==0.7.1
 promise==2.2.1
 prompt-toolkit==2.0.9
 protobuf==3.9.1
-psutil==5.6.3
+psutil>=5.6.6
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -131,7 +131,6 @@ subprocess32==3.5.4
 tensorboard==2.0.2
 tensorboardX==1.8
 tensorflow-estimator==2.0.1
-tensorflow-gpu==2.0.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
