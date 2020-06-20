@@ -2,8 +2,6 @@
 
 Unofficial PyTorch implementation of Sinusodial Representation networks (SIREN) from the paper [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661). This repository is a PyTorch port of [this](https://github.com/titu1994/tf_SIREN) excellent TF 2.0 implementation of the same.
 
-The training is ongoing. I will update the repo with the updated checkpoint and final output image soon.
-
 # Setup
 - Install dependencies using `requirements.txt`
 ```
