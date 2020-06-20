@@ -26,9 +26,9 @@ class Sine(nn.Module):
 
     @staticmethod
     def _check_input(x):
-        if not isinstance(x, torch.FloatTensor):
+        if not isinstance(x, torch.Tensor):
             raise TypeError(
-                'input to forward() must be torch.FloatTensor')
+                'input to forward() must be torch.xTensor')
 
 
 class SIREN(nn.Module):
