@@ -26,7 +26,7 @@ x = torch.rand(10)
 y = Sine(w0=1)(x)
 ```
 
-## Siren initialization
+## Initialization
 The authors in the paper propose a principled way of intializing the layers for the SIREN model. The initialization function
 can be used as any other initialization present in `torch.nn.init`.
 
