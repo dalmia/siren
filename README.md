@@ -64,12 +64,12 @@ A partial implementation of the image inpainting task is available as the `train
 
 To run training:
 ```bash
-$ python train_inpainting_siren.py
+$ python scripts/train_inpainting_siren.py
 ```
 
 To run evaluation:
 ```bash
-$ python eval_inpainting_siren.py
+$ python scripts/eval_inpainting_siren.py
 ```
 
 Weight files are made available in the repository under the `checkpoints` directory. It generates the following output after 5000 epochs of training with batch size 8192 while using only 10% of the available pixels in the image during training phase.
