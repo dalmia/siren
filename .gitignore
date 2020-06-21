@@ -17,3 +17,4 @@ logs/
 *.h5
 *.onnx
 *.xls
+dist/
