@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="siren",
+    name="siren-torch",
     version="1.0",
     author="Aman Dalmia",
     author_email="amandalmia18@gmail.com",

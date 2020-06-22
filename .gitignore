@@ -19,3 +19,4 @@ logs/
 *.xls
 dist/
 build/
+siren_torch.egg-info/
