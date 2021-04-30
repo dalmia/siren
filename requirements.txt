@@ -143,7 +143,7 @@ tornado==6.0.3
 tqdm==4.33.0
 traitlets==4.3.2
 typed-ast==1.4.0
-urllib3==1.25.3
+urllib3==1.25.8
 visdom==0.1.8.8
 wandb==0.8.19
 watchdog==0.9.0
