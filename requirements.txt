@@ -76,7 +76,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
 numba==0.45.1
-numpy==1.17.1
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 oauthlib==3.1.0
 opencv-python==4.1.0.25
