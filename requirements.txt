@@ -71,7 +71,7 @@ mccabe==0.6.1
 mistune==0.8.4
 more-itertools==7.2.0
 natsort==6.0.0
-nbconvert==5.6.0
+nbconvert==6.3.0
 nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
